@@ -16,5 +16,14 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidduri2025/s25wa85sidduri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sidduri2025/s25wa85sidduri/issues"
+  },
+  "homepage": "https://github.com/Sidduri2025/s25wa85sidduri#readme"
 }
